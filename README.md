@@ -1,4 +1,4 @@
-# BLE-Sensorhub
+# BLE-Sensorhub - December 2016
 Developed a sensor hub which transmits data to a mobile app through BLE. The sensor hub is controlled by EFM32 Leopard Gecko micro-controller, Temperature sensor, Ambient Light sensor, Accelerometer, Capacitive touch sensor and the BLE is a ATMEL SAMB11 which data through UART and transmits to a mobile application.
 
 
